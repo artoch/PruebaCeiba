@@ -20,3 +20,5 @@ Espera la carga de elementos, si tiene entonces filtra dos veces y verifica que 
 
 PostTest
 Verifica con un usuario almacenado del local db los post que este tenga haciendo la consulta al servidor.
+
+Estos dos pueden ser ejecutados con el Suite de AppTest
